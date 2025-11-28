@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile.jpg" width="180" alt="Zeyad Abdeen" style="border-radius: 50%;" />
+  <img src="./profile.jpg" width="1000" alt="Zeyad Abdeen" style="border-radius: 50%;" />
   
   <br />
   <br />
